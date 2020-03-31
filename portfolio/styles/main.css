@@ -7423,8 +7423,8 @@
   .subheader_line {
       background: url(../img/subheader_line.png) no-repeat;
       width: 348px;
-      height: 8px;
-      margin: 0 8px 5px 9px;
+      height: 1px;
+      margin: 0 2px 2px 2px;
       display: inline-block;
       float: left;
   }
